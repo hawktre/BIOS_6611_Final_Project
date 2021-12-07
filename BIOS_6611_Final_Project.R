@@ -175,4 +175,4 @@ qqnorm(freq.diff.mean); qqline(freq.diff.mean)
 #Mann Whitney U Test Between Groups
 wilcox.test(f2~group, data = acupuncture.analyze)
 
-#lol
+hist(freq.diff.mean)
